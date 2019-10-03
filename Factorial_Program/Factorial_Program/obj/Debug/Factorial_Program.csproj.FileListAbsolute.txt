@@ -1,0 +1,7 @@
+D:\DEV\C#\Practice\Factorial_Program\Factorial_Program\obj\Debug\Factorial_Program.csprojAssemblyReference.cache
+D:\DEV\C#\Practice\Factorial_Program\Factorial_Program\obj\Debug\Factorial_Program.csproj.CoreCompileInputs.cache
+D:\DEV\C#\Practice\Factorial_Program\Factorial_Program\bin\Debug\Factorial_Program.exe.config
+D:\DEV\C#\Practice\Factorial_Program\Factorial_Program\bin\Debug\Factorial_Program.exe
+D:\DEV\C#\Practice\Factorial_Program\Factorial_Program\bin\Debug\Factorial_Program.pdb
+D:\DEV\C#\Practice\Factorial_Program\Factorial_Program\obj\Debug\Factorial_Program.exe
+D:\DEV\C#\Practice\Factorial_Program\Factorial_Program\obj\Debug\Factorial_Program.pdb
